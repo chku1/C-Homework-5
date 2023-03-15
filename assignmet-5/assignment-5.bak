@@ -1,0 +1,26 @@
+
+#lang racket
+
+(provide (all-defined-out)) ;; so we can put tests in a second file
+
+;; add your funciton implementations below
+
+;; 1) TODO: sequence
+(define (sequence low high stride)
+  (error 'not-implemented-yet))
+
+;; 2) TODO: string-append-map
+(define (string-append-map xs suffix)
+  (error 'not-implemented-yet))
+
+;; 3) TODO: string-append-map
+(define (sum-square-diff n)
+  (error 'not-implemented-yet))
+
+;; 4) TODO: string-append-map
+(define (count-nucleotides dna)
+  (error 'not-implemented-yet))
+
+;; 5) TODO: string-append-map
+(define (dna-to-rna dna)
+  (error 'not-implemented-yet))
